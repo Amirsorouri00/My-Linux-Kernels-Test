@@ -1,0 +1,1 @@
+cmd_/home/amirsorouri00/Desktop/linux-source-4.15.0/linux-source-4.15.0/tools/objtool/fixdep-in.o :=  ld -r -o /home/amirsorouri00/Desktop/linux-source-4.15.0/linux-source-4.15.0/tools/objtool/fixdep-in.o  /home/amirsorouri00/Desktop/linux-source-4.15.0/linux-source-4.15.0/tools/objtool/fixdep.o
